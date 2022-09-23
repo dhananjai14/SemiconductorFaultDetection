@@ -1,4 +1,4 @@
-# WaferFaultDetection
+# SemiconductorFaultDetection
 This project is all about detecting fault in semiconductor wafers.
 
 *This is just to show case the portion I worked on.*
